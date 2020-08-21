@@ -77,3 +77,4 @@ fastlane/readme.md
 .settings
 bin/
 .classpath
+.project
